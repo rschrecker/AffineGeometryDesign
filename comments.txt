@@ -1,0 +1,2 @@
+Written as a temporary replacement for the (at the time VERY slow) Sagemath function
+sage.combinat.designs.block_design.AffineGeometryDesign, which has since been reworked.
